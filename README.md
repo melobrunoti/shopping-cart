@@ -5,7 +5,7 @@ Esse projeto foi realizado durante o bloco de fundamentos da trybe.
 ## Habilidades necessárias para o desenvolvimento:
 
 - Fazer requisições a uma API *(Application Programming Interface)* do Mercado Livre;
-- Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
+- Utilizar JavaScript, CSS e HTML;
 - Trabalhar com funções assíncronas;
 - Implementar testes unitários.
 
