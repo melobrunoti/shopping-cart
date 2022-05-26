@@ -1,4 +1,4 @@
-# To-do List JS
+# Shopping Cart
 
 Esse projeto foi realizado durante o bloco de fundamentos da trybe.
 
